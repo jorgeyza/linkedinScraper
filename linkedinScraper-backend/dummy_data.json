@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Jorge Alonso Eyzaguirre Herrera",
+    "title": "Web Developer",
+    "location": "Perú ",
+    "resume": "Desarrollador web con Bachiller en Administración otorgado por la Universidad del Pacífico. Apasionado por la tecnología y en solucionar problemas. Con ganas de seguir creciendo y aprendiendo.",
+    "experiences": [
+      {
+        "title": "Frontend Web Developer",
+        "date": "nov 2021 – actualidad",
+        "company": "Krowdy Jornada completa"
+      },
+      {
+        "title": "Web Developer",
+        "date": "jul 2021 – nov 2021",
+        "company": "Profesional independiente"
+      },
+      {
+        "title": "Scrum Master / QA / Coordinador de Planeación",
+        "date": "abr 2019 – abr 2020",
+        "company": "Krowdy Jornada completa"
+      },
+      {
+        "title": "Asistente Administrativo",
+        "date": "feb 2018 – ene 2019",
+        "company": "HYDROMAQ S.A.C. Jornada completa"
+      },
+      {
+        "title": "Equipo de operaciones",
+        "date": "dic 2015 – mar 2016",
+        "company": "Busch Gardens Tampa Contrato temporal"
+      },
+      {
+        "title": "Asistente de Administración/Contabilidad",
+        "date": "ene 2015 – mar 2015",
+        "company": "HYDROMAQ S.A.C. Contrato de prácticas"
+      }
+    ],
+    "educations": [
+      {
+        "institution": "Universidad del Pacífico (PE)",
+        "career": "Bachillerato",
+        "date": "2012 – 2017"
+      }
+    ]
+  },
+  {
+    "name": "Lorena Dávila Ermus",
+    "title": "Fullstack Developer Junior at Rhinolabs",
+    "location": "Perú ",
+    "experiences": [
+      {
+        "title": "Fullstack Developer Junior",
+        "date": "nov 2021 – actualidad",
+        "company": "Rhinolabs Jornada completa"
+      },
+      {
+        "title": "Desarrolladora Frontend Web",
+        "date": "may 2019 – ene 2020",
+        "company": "4Business SAC Jornada completa"
+      },
+      {
+        "title": "Desarrolladora Frontend Web",
+        "date": "oct 2018 – mar 2019",
+        "company": "FriendlyBit Jornada completa"
+      },
+      {
+        "title": "Especialista A en Ciencias Informáticas",
+        "date": "feb 2016 – ene 2017",
+        "company": "Periódico Trabajadores Jornada completa"
+      }
+    ],
+    "educations": [
+      {
+        "institution": "Codeable",
+        "career": "Full-Stack Web Developer",
+        "date": "2021 – 2021"
+      },
+      {
+        "institution": "Universidad Tecnólogica de La Habana \"Jose Antonio Echeverría\"​, CUJAE",
+        "career": "Ingeniería",
+        "date": "2008 – 2013"
+      }
+    ]
+  },
+
+  {
+    "name": "Gabriel Sánchez Villacorta",
+    "title": "Fullstack Developer en Culqi",
+    "location": "Perú ",
+    "resume": "Soy egresado de las carrera de Computación e Informática y Diseño Gráfico. Trabajo actualmente como desarrollador web Fullstack en el proyecto Interbank Benefit.",
+    "experiences": [
+      {
+        "title": "Fullstack Developer",
+        "date": "dic 2021 – actualidad",
+        "company": "Culqi Jornada completa"
+      },
+      {
+        "title": "Fullstack Developer",
+        "date": "feb 2017 – dic 2021",
+        "company": "PlazaPoints"
+      },
+      {
+        "title": "Diseñador 3D",
+        "date": "sept 2014 – dic 2016",
+        "company": "Akros Studio"
+      },
+      {
+        "title": "Diseñador 3D",
+        "date": "abr 2014 – sept 2014",
+        "company": "Digital Life Sac"
+      }
+    ],
+    "educations": [
+      {
+        "institution": "CIBERTEC",
+        "career": "Computación e Informática",
+        "date": "2017 – 2020"
+      },
+      {
+        "institution": "Platzi",
+        "career": "Frontend Profesional",
+        "date": "2016"
+      },
+      {
+        "institution": "Instituto Toulouse Lautrec",
+        "career": "Especialización en Desarrollo Web",
+        "date": "2016 – 2016"
+      }
+    ]
+  },
+
+  {
+    "name": "Norvil Stalin Guevara Torres",
+    "title": ".NET FullStack Developer",
+    "location": "Perú ",
+    "experiences": [
+      {
+        "title": "Software Engineer",
+        "date": "sept 2021 – actualidad",
+        "company": "Inetum Jornada completa"
+      },
+      {
+        "title": "Analista programador",
+        "date": "mar 2021 – sept 2021",
+        "company": "Grupo Tawa Jornada completa"
+      },
+      {
+        "title": "Analista Programador",
+        "date": "jul 2019 – feb 2021",
+        "company": "Farmacias Magistral QF Jornada completa"
+      },
+      {
+        "title": "Auxiliar de sistemas",
+        "date": "ene 2018 – abr 2018",
+        "company": "Farmacias Magistral QF Contrato de prácticas"
+      }
+    ],
+    "educations": [
+      {
+        "institution": "Universidad Nacional de Trujillo",
+        "career": "Ingeniería",
+        "date": "2015 – 2020"
+      },
+      {
+        "institution": "Centro de idiomas UNT - CIDUNT",
+        "career": "Intermedio",
+        "date": "2016 – 2018"
+      }
+    ]
+  }
+]
